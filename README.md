@@ -1,3 +1,5 @@
+Project Name- tetris game
+
 # tetris-game
 * The game should stop if a Tetrimino fills the highest row of the game board
 * The player should be able to rotate each Tetrimino about its own axis
